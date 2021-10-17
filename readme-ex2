@@ -1,0 +1,21 @@
+Readme ex2:
+File: client.c
+Written by: Tal Levi, id = 311460588.
+this prog exec is implemantaion for  a client side to send request to html servers.
+Command to send request:
+"Usage: client [-p <text>] [-r n <pr1=value1
+pr2=value2 …>] <URL>"
+
+……………………………………………………………………………………………………………………………………
+Compile: gcc -g client.c -o client
+Run:client
+client.c - the main program. 
+
+Output: the request and the server response.
+ 
+
+
+
+
+
+
